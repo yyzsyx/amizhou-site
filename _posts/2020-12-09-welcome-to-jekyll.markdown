@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to szhou's Jekyll!"
+title:  "Welcome to szhou's test Jekyll!"
 date:   2020-12-09 10:50:43 +0800
 categories: jekyll update
 ---
